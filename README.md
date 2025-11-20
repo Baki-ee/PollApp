@@ -3,11 +3,14 @@ A simple, fully functional polling application built with Django, inspired by th
 This project allows users to:
 
 ✔ View a list of poll questions
+
 ✔ Open a question and see all the available choices
+
 ✔ Cast a vote on any choice
+
 ✔ See real-time results after voting
 
- #Features
+ # Features
 1. List of All Poll Questions
 
 The index view fetches all questions from the database and displays them on the homepage using the polls/index.html template.
@@ -25,7 +28,7 @@ The vote view processes form submissions, updates vote counts, and gracefully ha
 
 After voting, users are redirected to the results page using HttpResponseRedirect and reverse() for clean URL handling.
 
- #Key Django Concepts Used
+ # Key Django Concepts Used
 
 Django Models (Question, Choice)
 
