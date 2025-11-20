@@ -45,3 +45,30 @@ Templates and context rendering
 POST request handling
 
 Redirects & named URLs
+
+
+# Tech Stack
+
+Python 3
+
+Django
+
+HTML (Django Templates)
+
+SQLite (Default Django DB)
+
+# Purpose of This Project
+
+This project demonstrates your understanding of:
+
+Django views (function-based views)
+
+ORM relationships (One-to-Many)
+
+Form submission handling
+
+Clean project structure
+
+Basic backend logic & database integration
+
+Great for showcasing your entry-level Django skills on GitHub.
